@@ -1,0 +1,7 @@
+ro.display.series=Samsung Note20 5G
+ro.product.board=kona
+ro.board.platform=kona
+sys.usb.controller=a600000.dwc3
+ro.boot.dynamic_partitions=true
+#fbe.metadata.wrappedkey=true
+ro.boot.bootdevice=1d84000.ufshc
